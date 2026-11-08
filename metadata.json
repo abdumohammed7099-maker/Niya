@@ -1,0 +1,6 @@
+{
+  "name": "NIYA",
+  "description": "NIYA (ኒያ) - Islamic Charity & Sadaqah Donation App for Ethiopia supporting mosques, poor relief, cemeteries, madrasas, and health centers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
